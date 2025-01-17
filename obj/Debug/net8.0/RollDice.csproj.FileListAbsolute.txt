@@ -1,0 +1,14 @@
+/Users/hunterbird/RiderProjects/RollDice/bin/Debug/net8.0/RollDice
+/Users/hunterbird/RiderProjects/RollDice/bin/Debug/net8.0/RollDice.deps.json
+/Users/hunterbird/RiderProjects/RollDice/bin/Debug/net8.0/RollDice.runtimeconfig.json
+/Users/hunterbird/RiderProjects/RollDice/bin/Debug/net8.0/RollDice.dll
+/Users/hunterbird/RiderProjects/RollDice/bin/Debug/net8.0/RollDice.pdb
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.AssemblyInfoInputs.cache
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.AssemblyInfo.cs
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.csproj.CoreCompileInputs.cache
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.dll
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/refint/RollDice.dll
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.pdb
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/RollDice.genruntimeconfig.cache
+/Users/hunterbird/RiderProjects/RollDice/obj/Debug/net8.0/ref/RollDice.dll
