@@ -17,10 +17,10 @@ internal class Program
         Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
         Console.WriteLine($"Total number of rolls = {NumOfRolls}.\n");
 
-        for (int i = 2; i <= 12; i++) // Only display results for sums 2-12
+        for (int i = 2; i <= 12; i++) 
         {
             double percentage = (rollResults[i] / (double)NumOfRolls) * 100;
-            int stars = (int)Math.Round(percentage); // Each star represents 1%
+            int stars = (int)Math.Round(percentage); 
             
             Console.WriteLine($"{i}: {new string('*', stars)}");
         }
