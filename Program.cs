@@ -8,8 +8,7 @@ internal class Program
     {
         Console.WriteLine("How many dice rolls do you want to simulate?");
         int NumOfRolls = int.Parse(Console.ReadLine());
-
-
+        
         DiceSimulator simulator = new DiceSimulator();
         
         int[] rollResults = simulator.SimulateRolls(NumOfRolls);

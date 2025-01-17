@@ -15,6 +15,7 @@ public class DiceSimulator
             int sum = die1 + die2;        // Sum of the two dice
             rollResults[sum]++;          // Increment the count for this sum
         }
+        
         return rollResults;
         
     }
